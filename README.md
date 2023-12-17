@@ -1,1 +1,1 @@
-(https://uludagdev.org)uludagdev.org
+uludagdev.org
